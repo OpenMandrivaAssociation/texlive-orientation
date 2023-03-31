@@ -1,6 +1,6 @@
 Name:		texlive-orientation
 Version:	57390
-Release:	1
+Release:	2
 Summary:	Set page orientation with dvips/Ghostscript (ps2pdf)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/orientation
