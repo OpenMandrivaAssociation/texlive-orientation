@@ -3,7 +3,7 @@ Version:	57390
 Release:	2
 Summary:	Set page orientation with dvips/Ghostscript (ps2pdf)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/orientation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/orientation
 License:	cc0
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/orientation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/orientation.doc.r%{version}.tar.xz
